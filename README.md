@@ -323,6 +323,8 @@ https://github.com/treelun/2DProject
 
 ## 인숙
 
+- 루트 계산기
+- 
 #### 숫자 버튼 및 엔터 버튼
 	버튼 누르면 번호 호출됨
 	게임 매니저의 input.answer의 값에 기록됨.

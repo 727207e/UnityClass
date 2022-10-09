@@ -13,6 +13,8 @@ https://github.com/treelun/2DProject
 
 - Survival
 
+https://user-images.githubusercontent.com/54798151/194759455-e752822b-4abc-4df5-83ec-47c14f3d95e4.mp4
+
 #### 적군 AI
 	콜라이더를 이용해서
 	범위 안으로 들어온 적(유저)를 검색
@@ -55,6 +57,8 @@ https://github.com/treelun/2DProject
   
   ----
 - fruit market
+
+https://user-images.githubusercontent.com/54798151/194759437-0b0f575a-330c-4fc6-a9b7-3b694518c839.mp4
 
 #### 진행 방식
 	타이틀 씬,인게임 씬,휴식 씬,인게임 씬 ...,최종점수 씬,타이틀 씬 ...
@@ -218,6 +222,8 @@ https://github.com/taewook06/2DProject_TW
 https://github.com/parkhyeonun/DinoRun0.1
 - DinoRun
 
+https://user-images.githubusercontent.com/54798151/194759393-84b8b20c-785c-4d16-8826-73236df0467a.mp4
+
 #### 점프 게임
 
 #### 시각 
@@ -326,7 +332,7 @@ https://github.com/nimonemo434/unitymyhomwork
 ## 인숙
 
 - 루트 계산기
-- 
+
 #### 숫자 버튼 및 엔터 버튼
 	버튼 누르면 번호 호출됨
 	게임 매니저의 input.answer의 값에 기록됨.

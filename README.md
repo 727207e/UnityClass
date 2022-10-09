@@ -108,7 +108,7 @@ https://github.com/treelun/2DProject
   
   
 ## 준겸
-
+https://github.com/CheonGyeom/Unity-RunAway-
 - Survival
 
 #### 적군 AI
@@ -152,6 +152,7 @@ https://github.com/treelun/2DProject
 	보스를 잡고 문을 통과하면 다음 점프맵으로 이동함
 
 ## 지원 
+https://github.com/Ganzione/testadd2
 
 - 보석 피하기
 
@@ -172,6 +173,7 @@ https://github.com/treelun/2DProject
 	
 
 ## 태욱
+https://github.com/taewook06/2DProject_TW
 
 #### 소리 종류와 처리
 	1. 총알이 발사 될때
@@ -213,7 +215,7 @@ https://github.com/treelun/2DProject
 
 
 ## 현웅
-
+https://github.com/parkhyeonun/DinoRun0.1
 - DinoRun
 
 #### 점프 게임
@@ -267,7 +269,7 @@ https://github.com/treelun/2DProject
 	
 	
 ## 동록 
-
+https://github.com/nimonemo434/unitymyhomwork
 - fox mario
 
 

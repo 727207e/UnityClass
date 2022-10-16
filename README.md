@@ -177,7 +177,8 @@ https://github.com/Ganzione/testadd2
 	
 
 ## 태욱
-https://github.com/taewook06/2DProject_TW
+
+https://github.com/taewook06/2dDeadRun
 
 - Dead run
 

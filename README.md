@@ -179,6 +179,11 @@ https://github.com/Ganzione/testadd2
 ## 태욱
 https://github.com/taewook06/2DProject_TW
 
+- Dead run
+
+https://user-images.githubusercontent.com/54798151/196041110-6d3c62b9-90d2-4e3c-858b-b86e70984644.mov
+
+
 #### 소리 종류와 처리
 	1. 총알이 발사 될때
 	2. 총알이 벽에 닿을 때
@@ -277,6 +282,10 @@ https://user-images.githubusercontent.com/54798151/194759393-84b8b20c-785c-4d16-
 ## 동록 
 https://github.com/nimonemo434/unitymyhomwork
 - fox mario
+
+
+https://user-images.githubusercontent.com/54798151/196041052-098093fc-d3cc-4a64-9e59-27d55ba85cb6.mp4
+
 
 
 #### 점프
